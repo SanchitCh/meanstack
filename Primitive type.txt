@@ -1,0 +1,62 @@
+var a = 5
+
+undefined
+
+b=a
+
+5
+
+
+b=6
+
+6
+
+
+b
+
+6
+
+
+a
+
+5
+
+var c = b
+
+undefined
+
+
+c
+
+6
+-------------------------------------------------------------
+var a =5
+
+undefined
+
+typeof a
+
+"number"
+
+
+var b=a
+
+undefined
+
+b
+
+5
+
+
+b=6
+
+6
+
+
+b
+6
+
+
+a
+
+5

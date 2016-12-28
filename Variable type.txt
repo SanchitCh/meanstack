@@ -1,0 +1,38 @@
+var str1='ignatius'
+
+undefined
+
+str1
+"ignatius"
+
+
+var str2='jessy'
+
+undefined
+
+
+var str2 = str1
+
+undefined
+
+
+str2
+
+"ignatius"
+
+
+str1
+
+"ignatius"
+
+
+str2='jessy'
+
+"jessy"
+
+
+str1
+"ignatius"
+
+str2
+"jessy"
